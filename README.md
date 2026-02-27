@@ -127,24 +127,7 @@ I thrive at the intersection of clean code and intelligent data pipelines, bring
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityadav002&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadav002&theme=tokyonight&hide_border=true&layout=compact"/>
-
-</div>
-
-<div align="center">
-
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=adityadav002&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=adityadav002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
